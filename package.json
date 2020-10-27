@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/BerryJohn/JasicaBot#readme",
   "dependencies": {
-    "discord.js": "^12.4.0"
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.4.0",
+    "node-fetch": "^2.6.1",
+    "youtube-sr": "^1.0.4",
+    "ytdl-core": "^3.4.2"
   }
 }
